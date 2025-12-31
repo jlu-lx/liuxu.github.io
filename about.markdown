@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Liuxu. This is my personal technical blog where I document what I'm
-building and learning.
+Hi, I'm Liuxu. This is my personal technical blog where I document what I'm building and learning.
 
 ## Topics
 
@@ -15,4 +14,4 @@ building and learning.
 
 ## Contact
 
-Add your preferred contact info here (email, GitHub, etc.).
+Feel free to reach out via GitHub or email.
